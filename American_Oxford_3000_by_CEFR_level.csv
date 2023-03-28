@@ -1,0 +1,3311 @@
+,0,1
+0,"a, an", indefinite article
+1,about ,"prep., adv."
+2,above ,"prep., adv."
+3,across ,"prep., adv."
+4,action ,n.
+5,activity ,n.
+6,actor ,n.
+7,actress ,n.
+8,add ,v.
+9,address ,n.
+10,adult ,n.
+11,advice ,n.
+12,afraid ,adj.
+13,after ,prep.
+14,afternoon ,n.
+15,again ,adv.
+16,age ,n.
+17,ago ,adv.
+18,agree ,v.
+19,air ,n.
+20,airport ,n.
+21,all ,"det., pron."
+22,also ,adv.
+23,always ,adv.
+24,amazing ,adj.
+25,and ,conj.
+26,angry ,adj.
+27,animal ,n.
+28,another ,det./pron.
+29,answer ,"n., v."
+30,any ,"det., pron."
+31,anyone ,pron.
+32,anything ,pron.
+33,apartment ,n.
+34,apple ,n.
+35,April ,n.
+36,area ,n.
+37,arm ,n.
+38,around ,"prep., adv."
+39,arrive ,v.
+40,art ,n.
+41,article ,n.
+42,artist ,n.
+43,as ,prep.
+44,ask ,v.
+45,at ,prep.
+46,August ,n.
+47,aunt ,n.
+48,away ,adv.
+49,awesome ,adj. 
+50,baby ,n.
+51,back ,"n., adv."
+52,bad ,adj.
+53,bag ,n.
+54,ball ,n.
+55,banana ,n.
+56,band ,n.
+57,bank , n.
+58,bar ,n.
+59,baseball ,n.
+60,basketball ,n.
+61,bath ,n.
+62,bathroom ,n.
+63,be ,"v., auxiliary v."
+64,beach ,n.
+65,beautiful ,adj.
+66,because ,conj.
+67,become ,v.
+68,bed ,n.
+69,bedroom ,n.
+70,beer ,n.
+71,before ,prep.
+72,begin ,v.
+73,beginning ,n.
+74,behind ,"prep., adv."
+75,believe ,v.
+76,below ,"adv., prep."
+77,best ,adj.
+78,better ,adj.
+79,between ,prep.
+80,bicycle ,n.
+81,big ,adj.
+82,bike ,n.
+83,bill ,n.
+84,bird ,n.
+85,birthday ,n.
+86,black ,"adj., n."
+87,blog ,n.
+88,blond ,adj.
+89,blue ,"adj., n."
+90,boat ,n.
+91,body ,n.
+92,book ,n.
+93,boot ,n.
+94,bored ,adj.
+95,boring ,adj.
+96,born ,v.
+97,both ,det./pron.
+98,bottle ,n.
+99,box ,n.
+100,boy ,n.
+101,boyfriend ,n.
+102,bread ,n.
+103,break ,"v., n."
+104,breakfast ,n.
+105,bring ,v.
+106,brother ,n.
+107,brown ,"adj., n."
+108,build ,v.
+109,building ,n.
+110,bus ,n.
+111,business ,n.
+112,busy ,adj.
+113,but ,conj.
+114,butter ,n.
+115,buy ,v.
+116,by ,prep.
+117,bye ,exclam.
+118,cafe ,n.
+119,cake ,n.
+120,call ,"v., n."
+121,camera ,n.
+122,can,modal v.
+123,cannot ,modal v.
+124,capital ,"n., adj."
+125,car ,n.
+126,card ,n.
+127,career ,n.
+128,carrot ,n.
+129,carry ,v.
+130,cat ,n.
+131,CD ,n.
+132,cent ,n.
+133,center ,n.
+134,chair ,n.
+135,change ,"v., n."
+136,chart ,n.
+137,cheap ,adj.
+138,check ,v.
+139,cheese ,n.
+140,chicken ,n.
+141,child ,n.
+142,chocolate ,n.
+143,choose ,v.
+144,city ,n.
+145,class ,n.
+146,classroom ,n.
+147,clean ,"adj., v."
+148,climb ,v.
+149,clock ,n.
+150,close,v.
+151,clothes ,n.
+152,club ,n.
+153,coat ,n.
+154,coffee ,n.
+155,cold ,"adj., n."
+156,college ,n.
+157,color ,n.
+158,come ,v.
+159,common ,adj.
+160,company ,n.
+161,compare ,v.
+162,complete ,"adj., v."
+163,computer ,n.
+164,concert ,n.
+165,conversation ,n.
+166,cook ,v.
+167,cooking ,n.
+168,cool ,adj.
+169,correct ,"adj., v."
+170,cost ,"n., v."
+171,could ,modal v.
+172,country ,n.
+173,course ,n.
+174,cousin ,n.
+175,cow ,n.
+176,cream ,n.
+177,create ,v.
+178,culture ,n.
+179,cup ,n.
+180,customer ,n.
+181,cut ,v.
+182,dad ,n.
+183,dance ,"n., v."
+184,dancer ,n.
+185,dancing ,n.
+186,dangerous ,adj.
+187,dark ,adj.
+188,date ,n.
+189,daughter ,n.
+190,day ,n.
+191,dear ,adj.
+192,December ,n.
+193,decide ,v.
+194,delicious ,adj.
+195,describe ,v.
+196,description ,n.
+197,design ,"n., v."
+198,desk ,n.
+199,detail ,n.
+200,dialogue ,n.
+201,dictionary ,n.
+202,die ,v.
+203,diet ,n.
+204,difference ,n.
+205,different ,adj.
+206,difficult ,adj.
+207,dinner ,n.
+208,dirty ,adj.
+209,discuss ,v.
+210,dish ,n.
+211,do,"v., auxiliary v."
+212,doctor ,n.
+213,dog ,n.
+214,dollar ,n.
+215,door ,n.
+216,down ,"adv., prep."
+217,downstairs ,adv.
+218,draw ,v.
+219,dress ,"n., v."
+220,drink ,"n., v."
+221,drive ,v.
+222,driver ,n.
+223,during ,prep.
+224,DVD ,n.
+225,each ,det./pron./adv.
+226,ear ,n.
+227,early ,"adj., adv."
+228,east ,"n., adj., adv."
+229,easy ,adj.
+230,eat ,v.
+231,egg ,n.
+232,eight ,number
+233,eighteen ,number
+234,eighty ,number
+235,elephant ,n.
+236,eleven ,number
+237,else ,adv.
+238,email ,"n., v."
+239,end ,"n., v."
+240,enjoy ,v.
+241,enough ,"det., pron., adv."
+242,euro ,n.
+243,even ,adv.
+244,evening ,n.
+245,event ,n.
+246,ever ,adv.
+247,every ,det.
+248,everybody ,pron.
+249,everyone ,pron.
+250,everything ,pron.
+251,exam ,n.
+252,example ,n.
+253,excited ,adj.
+254,exciting ,adj.
+255,exercise ,"n., v."
+256,expensive ,adj.
+257,explain ,v.
+258,extra ,adj.
+259,eye ,n.
+260,face ,n.
+261,fact ,n.
+262,fall ,"v., n."
+263,false ,adj.
+264,family ,"n., adj."
+265,famous ,adj.
+266,fantastic ,adj.
+267,far ,adv.
+268,farm ,n.
+269,farmer ,n.
+270,fast ,"adj., adv."
+271,fat ,adj.
+272,father ,n.
+273,favorite ,"adj., n."
+274,February ,n.
+275,feel ,v.
+276,feeling ,n.
+277,festival ,n.
+278,few ,"det./adj., pron."
+279,fifteen ,number
+280,fifth ,number
+281,fifty ,number
+282,fill ,v.
+283,final ,adj.
+284,find ,v.
+285,fine ,adj.
+286,finish ,v.
+287,fire ,n.
+288,first ,"det./number, adv."
+289,fish ,n.
+290,five ,number
+291,flight ,n.
+292,floor ,n.
+293,flower ,n.
+294,fly ,v.
+295,follow ,v.
+296,food ,n.
+297,foot ,n.
+298,football ,n.
+299,for ,prep.
+300,forget ,v.
+301,form ,"n., v."
+302,forty ,number
+303,four ,number
+304,fourteen ,number
+305,fourth ,number
+306,free ,adj.
+307,Friday ,n.
+308,friend ,n.
+309,friendly ,adj.
+310,from ,prep.
+311,front ,"n., adj."
+312,fruit ,n.
+313,full ,adj.
+314,fun ,n.
+315,funny ,adj.
+316,future ,n.
+317,game ,n.
+318,garden ,n.
+319,geography ,n.
+320,get ,v.
+321,girl ,n.
+322,girlfriend ,n.
+323,give ,v.
+324,glass ,n.
+325,go ,v.
+326,good ,adj.
+327,goodbye ,exclam./n.
+328,grandfather ,n.
+329,grandmother ,n.
+330,grandparent ,n.
+331,gray ,"adj., n."
+332,great ,adj.
+333,green ,"adj., n."
+334,group ,n.
+335,grow ,v.
+336,guess ,"v., n."
+337,guitar ,n.
+338,gym ,n.
+339,hair ,n.
+340,half ,"n., det./pron."
+341,hand ,n.
+342,happen ,v.
+343,happy ,adj.
+344,hard ,"adj., adv."
+345,hat ,n.
+346,hate ,v.
+347,have ,v.
+348,have to, modal v.
+349,he ,pron.
+350,head ,n.
+351,health ,n.
+352,healthy ,adj.
+353,hear ,v.
+354,hello ,exclam./n.
+355,help ,"v., n."
+356,her ,"pron., det."
+357,here ,adv.
+358,hey ,exclam.
+359,hi ,exclam.
+360,high ,adj.
+361,him ,pron.
+362,his ,det.
+363,history ,n.
+364,hobby ,n.
+365,home ,"n., adv."
+366,homework ,n.
+367,hope ,v.
+368,horse ,n.
+369,hospital ,n.
+370,hot ,adj.
+371,hotel ,n.
+372,hour ,n.
+373,house ,n.
+374,how ,adv.
+375,however ,adv.
+376,hundred ,number
+377,hungry ,adj.
+378,husband ,n.
+379,I ,pron.
+380,ice ,n.
+381,ice cream, n.
+382,idea ,n.
+383,if ,conj.
+384,imagine ,v.
+385,important ,adj.
+386,improve ,v.
+387,in ,"prep., adv."
+388,include ,v.
+389,information ,n.
+390,interest ,"n., v."
+391,interested ,adj.
+392,interesting ,adj.
+393,internet ,n.
+394,interview ,"n., v."
+395,into ,prep.
+396,introduce ,v.
+397,island ,n.
+398,it ,pron.
+399,its ,det.
+400,jacket ,n.
+401,January ,n.
+402,jeans ,n.
+403,job ,n.
+404,join ,v.
+405,juice ,n.
+406,July ,n.
+407,June ,n.
+408,just ,adv.
+409,keep ,v.
+410,key ,"n., adj."
+411,kind , n.
+412,kitchen ,n.
+413,know ,v.
+414,land ,n.
+415,language ,n.
+416,large ,adj.
+417,last, det.
+418,late ,"adj., adv."
+419,later ,adv.
+420,laugh ,"v., n."
+421,learn ,v.
+422,leave ,v.
+423,left ,"adj., adv., n."
+424,leg ,n.
+425,lesson ,n.
+426,let ,v.
+427,letter ,n.
+428,library ,n.
+429,lie,v.
+430,life ,n.
+431,light ," n., "
+432,adj.,
+433,like , prep.
+434,like , v.
+435,line ,n.
+436,lion ,n.
+437,list ,"n., v."
+438,listen ,v.
+439,little ,"adj., det./pron."
+440,live,v.
+441,local ,adj.
+442,long,"adj., adv."
+443,look ,v.
+444,lose ,v.
+445,lot ,"pron., det., adv."
+446,love ,"n., v."
+447,lunch ,n.
+448,machine ,n.
+449,magazine ,n.
+450,main ,adj.
+451,make ,v.
+452,mall ,n. 
+453,man ,n.
+454,many ,det./pron.
+455,map ,n.
+456,March ,n.
+457,market ,n.
+458,married ,adj.
+459,match ,"n., v."
+460,May ,n.
+461,maybe ,adv.
+462,me ,pron.
+463,meal ,n.
+464,mean ,v.
+465,meaning ,n.
+466,meat ,n.
+467,meet ,v.
+468,meeting ,n.
+469,member ,n.
+470,menu ,n.
+471,message ,n.
+472,meter ,n.
+473,midnight ,n.
+474,mile ,n.
+475,milk ,n.
+476,million ,number
+477,minute,n.
+478,miss ,v.
+479,mistake ,n.
+480,model ,n.
+481,modern ,adj.
+482,mom ,n.
+483,moment ,n.
+484,Monday ,n.
+485,money ,n.
+486,month ,n.
+487,more ,"det./pron., adv."
+488,morning ,n.
+489,most ,"det./pron., adv."
+490,mother ,n.
+491,mountain ,n.
+492,mouse ,n.
+493,mouth ,n.
+494,move ,v.
+495,movie ,n.
+496,much ,"det./pron., adv."
+497,museum ,n.
+498,music ,n.
+499,must ,modal v.
+500,my ,det.
+501,name ,"n., v."
+502,natural ,adj.
+503,near ,"prep., adj., adv."
+504,need ,v.
+505,negative ,adj.
+506,neighbor ,n.
+507,neighborhood ,n.
+508,never ,adv.
+509,new ,adj.
+510,news ,n.
+511,newspaper ,n.
+512,next ,"adj., adv."
+513,next to, prep.
+514,nice ,adj.
+515,night ,n.
+516,nine ,number
+517,nineteen ,number
+518,ninety ,number
+519,no ,"exclam., det."
+520,no one, pron.
+521,nobody ,pron.
+522,north ,"n., adj., adv."
+523,nose ,n.
+524,not ,adv.
+525,note ,n.
+526,nothing ,pron.
+527,November ,n.
+528,now ,adv.
+529,number ,n.
+530,nurse ,n.
+531,object ,n.
+532,ocean ,n.
+533,o’clock ,adv.
+534,October ,n.
+535,of ,prep.
+536,off ,"adv., prep."
+537,office ,n.
+538,often ,adv.
+539,oh ,exclam.
+540,OK ,"exclam., adj./adv."
+541,old ,adj.
+542,on ,"prep., adv."
+543,once ,adv.
+544,one ,"number/det., pron."
+545,onion ,n.
+546,online ,"adj., adv."
+547,only ,"adj., adv."
+548,open ,"adj., v."
+549,opinion ,n.
+550,opposite ,"adj., n., prep., adv."
+551,or ,conj.
+552,orange ,"n., adj."
+553,order ,"n., v."
+554,other ,adj./pron.
+555,our ,det.
+556,out ,adv./prep.
+557,outside ,adv.
+558,over ,"prep., adv."
+559,own ,adj./pron.
+560,page ,n.
+561,paint ,"v., n."
+562,painting ,n.
+563,pair ,n.
+564,pants ,n.
+565,paper ,n.
+566,paragraph ,n.
+567,parent ,n.
+568,park ,"n., v."
+569,part ,n.
+570,partner ,n.
+571,party ,n.
+572,passport ,n.
+573,past ,"adj., n., prep."
+574,pay ,v.
+575,pen ,n.
+576,pencil ,n.
+577,people ,n.
+578,pepper ,n.
+579,perfect ,adj.
+580,period ,n.
+581,person ,n.
+582,personal ,adj.
+583,phone ,"n., v."
+584,photo ,n.
+585,photograph ,n.
+586,phrase ,n.
+587,piano ,n.
+588,picture ,n.
+589,piece ,n.
+590,pig ,n.
+591,pink ,"adj., n."
+592,place ,n.
+593,plan ,"n., v."
+594,plane ,n.
+595,plant ,n.
+596,play ,"v., n."
+597,player ,n.
+598,please ,exclam.
+599,point ,n.
+600,police ,n.
+601,policeman ,n.
+602,pool ,n.
+603,poor ,adj.
+604,popular ,adj.
+605,positive ,adj.
+606,possible ,adj.
+607,post ,"n., v."
+608,potato ,n.
+609,pound ,n.
+610,practice ,"n., v."
+611,prefer ,v.
+612,prepare ,v.
+613,present ,"adj., n."
+614,pretty ,"adj., adv."
+615,price ,n.
+616,probably ,adv.
+617,problem ,n.
+618,product ,n.
+619,program ,n.
+620,project ,n.
+621,purple ,"adj., n."
+622,put ,v.
+623,quarter ,n.
+624,question ,n.
+625,quick ,adj.
+626,quickly ,adv.
+627,quiet ,adj.
+628,quite ,adv.
+629,radio ,n.
+630,rain ,"n., v."
+631,read ,v.
+632,reader ,n.
+633,reading ,n.
+634,ready ,adj.
+635,real ,adj.
+636,really ,adv.
+637,reason ,n.
+638,red ,"adj., n."
+639,relax ,v.
+640,remember ,v.
+641,repeat ,v.
+642,report ,n.
+643,restaurant ,n.
+644,result ,n.
+645,return ,"v., n."
+646,rice ,n.
+647,rich ,adj.
+648,ride ,v.
+649,right ,"adj., adv., n."
+650,river ,n.
+651,road ,n.
+652,room ,n.
+653,routine ,n.
+654,rule ,n.
+655,run ,v.
+656,sad ,adj.
+657,salad ,n.
+658,salt ,n.
+659,same ,"adj., pron., adv."
+660,sandwich ,n.
+661,Saturday ,n.
+662,say ,v.
+663,school ,n.
+664,science ,n.
+665,scientist ,n.
+666,second,  
+667,det./number,
+668,second, n.
+669,section ,n.
+670,see ,v.
+671,sell ,v.
+672,send ,v.
+673,sentence ,n.
+674,September ,n.
+675,seven ,number
+676,seventeen ,number
+677,seventy ,number
+678,share ,v.
+679,she ,pron.
+680,sheep ,n.
+681,shirt ,n.
+682,shoe ,n.
+683,shop ,"n., v."
+684,shopping ,n.
+685,short ,adj.
+686,should ,modal v.
+687,show ,"v., n."
+688,shower ,n.
+689,sick ,adj.
+690,similar ,adj.
+691,sing ,v.
+692,singer ,n.
+693,sister ,n.
+694,sit ,v.
+695,situation ,n.
+696,six ,number
+697,sixteen ,number
+698,sixty ,number
+699,skill ,n.
+700,skirt ,n.
+701,sleep ,v.
+702,slow ,adj.
+703,small ,adj.
+704,smart ,adj.
+705,snake ,n.
+706,snow ,"n., v."
+707,so ,"adv., conj."
+708,some ,"det., pron."
+709,somebody ,pron.
+710,someone ,pron.
+711,something ,pron.
+712,sometimes ,adv.
+713,son ,n.
+714,song ,n.
+715,soon ,adv.
+716,sorry ,"adj., exclam."
+717,sound ,"n., v."
+718,soup ,n.
+719,south ,"n., adj., adv."
+720,space ,n.
+721,speak ,v.
+722,special ,adj.
+723,spell ,v.
+724,spelling ,n.
+725,spend ,v.
+726,sport ,n.
+727,spring ,n.
+728,stand ,v.
+729,star ,n.
+730,start ,v.
+731,statement ,n.
+732,station ,n.
+733,stay ,v.
+734,still ,adv.
+735,stop ,"v., n."
+736,store ,n.
+737,story ,n.
+738,street ,n.
+739,strong ,adj.
+740,student ,n.
+741,study ,"n., v."
+742,style ,n.
+743,subject ,n.
+744,success ,n.
+745,sugar ,n.
+746,summer ,n.
+747,sun ,n.
+748,Sunday ,n.
+749,supermarket ,n.
+750,sure ,adj.
+751,sweater ,n.
+752,swim ,v.
+753,swimming ,n.
+754,table ,n.
+755,take ,v.
+756,talk ,v.
+757,tall ,adj.
+758,taxi ,n.
+759,tea ,n.
+760,teach ,v.
+761,teacher ,n.
+762,team ,n.
+763,teenager ,n.
+764,telephone ,"n., v."
+765,television ,n.
+766,tell ,v.
+767,ten ,number
+768,tennis ,n.
+769,terrible ,adj.
+770,test ,"n., v."
+771,text ,n.
+772,than ,conj.
+773,thank ,v.
+774,thanks ,"exclam., n."
+775,that ,"det., pron., conj."
+776,the ,definite article
+777,theater ,n.
+778,their ,det.
+779,them ,pron.
+780,then ,adv.
+781,there ,adv.
+782,they ,pron.
+783,thing ,n.
+784,think ,v.
+785,third ,number
+786,thirsty ,adj.
+787,thirteen ,number
+788,thirty ,number
+789,this ,det./pron.
+790,thousand ,number
+791,three ,number
+792,through ,"prep., adv."
+793,Thursday ,n.
+794,ticket ,n.
+795,time ,n.
+796,tired ,adj.
+797,title ,n.
+798,to ,"prep., infinitive marker"
+799,today ,"adv., n."
+800,together ,adv.
+801,toilet ,n.
+802,tomato ,n.
+803,tomorrow ,"adv., n."
+804,tonight ,"adv., n."
+805,too ,adv.
+806,tooth ,n.
+807,topic ,n.
+808,tourist ,n.
+809,town ,n.
+810,traffic ,n.
+811,train ,n.
+812,travel ,"v., n."
+813,tree ,n.
+814,trip ,n.
+815,truck ,n.
+816,true ,adj.
+817,try ,v.
+818,T-shirt ,n.
+819,Tuesday ,n.
+820,turn ,"v., n."
+821,TV ,n.
+822,twelve ,number
+823,twenty ,number
+824,twice ,adv.
+825,two ,number
+826,type ,n.
+827,umbrella ,n.
+828,uncle ,n.
+829,under ,"prep., adv."
+830,understand ,v.
+831,university ,n.
+832,until ,conj./prep.
+833,up ,"adv., prep."
+834,upstairs ,adv.
+835,us ,pron.
+836,use ,v.
+837,useful ,adj.
+838,usually ,adv.
+839,vacation ,n.
+840,vegetable ,n.
+841,very ,adv.
+842,video ,n.
+843,visit ,"v., n."
+844,visitor ,n.
+845,wait ,v.
+846,waiter ,n.
+847,wake ,v.
+848,walk ,"v., n."
+849,wall ,n.
+850,want ,v.
+851,warm ,adj.
+852,wash ,v.
+853,watch ,"v., n."
+854,water ,n.
+855,way ,n.
+856,we ,pron.
+857,wear ,v.
+858,weather ,n.
+859,website ,n.
+860,Wednesday ,n.
+861,week ,n.
+862,weekend ,n.
+863,welcome ,"exclam., v., adj."
+864,well ,"adv., adj., exclam."
+865,west ,"n., adj., adv."
+866,what ,pron./det.
+867,when ,"adv., pron., conj."
+868,where ,"adv., conj."
+869,which ,pron./det.
+870,white ,"adj., n."
+871,who ,pron.
+872,why ,adv.
+873,wife ,n.
+874,will ,modal v.
+875,win ,v.
+876,window ,n.
+877,wine ,n.
+878,winter ,n.
+879,with ,prep.
+880,without ,prep.
+881,woman ,n.
+882,wonderful ,adj.
+883,word ,n.
+884,work ,"v., n."
+885,worker ,n.
+886,world ,n.
+887,would ,modal v.
+888,write ,v.
+889,writer ,n.
+890,writing ,n.
+891,wrong ,adj.
+892,yard ,n.
+893,yeah ,exclam.
+894,year ,n.
+895,yellow ,"adj., n."
+896,yes ,exclam.
+897,yesterday ,"adv., n."
+898,you ,pron.
+899,young ,adj.
+900,your ,det.
+901,yourself ,pron.
+902,ability ,n.
+903,able ,adj.
+904,accept ,v.
+905,accident ,n.
+906,according to, prep.
+907,achieve ,v.
+908,act ,v.
+909,active ,adj.
+910,actually ,adv.
+911,adult ,adj.
+912,advantage ,n.
+913,adventure ,n.
+914,advertise ,v.
+915,advertisement ,n.
+916,advertising ,n.
+917,affect ,v.
+918,after ,"conj., adv."
+919,against ,prep.
+920,ah ,exclam.
+921,airline ,n.
+922,alive ,adj.
+923,all ,adv.
+924,all right, adj./adv.
+925,allow ,v.
+926,almost ,adv.
+927,alone ,adj./adv.
+928,along ,"prep., adv."
+929,already ,adv.
+930,alternative ,n.
+931,although ,conj.
+932,among ,prep.
+933,amount ,n.
+934,analyze ,v.
+935,ancient ,adj.
+936,ankle ,n.
+937,any ,adv.
+938,anybody ,pron.
+939,anymore ,adv.
+940,anyway ,adv.
+941,anywhere ,"adv., pron."
+942,app ,n.
+943,appear ,v.
+944,appearance ,n.
+945,apply ,v.
+946,architect ,n.
+947,architecture ,n.
+948,argue ,v.
+949,argument ,n.
+950,army ,n.
+951,arrange ,v.
+952,arrangement ,n.
+953,as ,"adv., conj."
+954,asleep ,adj.
+955,assistant ,"n., adj."
+956,athlete ,n.
+957,attack ,"n., v."
+958,attend ,v.
+959,attention ,"n., exclam."
+960,attractive ,adj.
+961,audience ,n.
+962,author ,n.
+963,available ,adj.
+964,average ,"adj., n."
+965,avoid ,v.
+966,award ,n.
+967,awful ,adj.
+968,back ,adj.
+969,background ,n.
+970,badly ,adv.
+971,based ,adj.
+972,bean ,n.
+973,bear , n.
+974,beat ,v.
+975,beef ,n.
+976,before ,"conj., adv."
+977,behave ,v.
+978,behavior ,n.
+979,belong ,v.
+980,belt ,n.
+981,benefit ,n.
+982,best ,"adv., n."
+983,better ,adv.
+984,between ,adv.
+985,billion ,number
+986,biology ,n.
+987,birth ,n.
+988,bit ,n.
+989,blank ,"adj., n."
+990,block ,n. 
+991,blood ,n.
+992,blow ,v.
+993,board ,n.
+994,boil ,v.
+995,bone ,n.
+996,book ,v.
+997,borrow ,v.
+998,boss ,n.
+999,bottom ,"n., adj."
+1000,bowl ,n.
+1001,brain ,n.
+1002,bridge ,n.
+1003,bright ,adj.
+1004,brilliant ,adj.
+1005,broken ,adj.
+1006,brush ,"v., n."
+1007,burn ,v.
+1008,businessman ,n.
+1009,button ,n.
+1010,camp ,"n., v."
+1011,camping ,n.
+1012,campus ,n.
+1013,can,n.
+1014,candy ,n.
+1015,care ,"n., v."
+1016,careful ,adj.
+1017,carefully ,adv.
+1018,carpet ,n.
+1019,cartoon ,n.
+1020,case ,n.
+1021,cash ,n.
+1022,catch ,v.
+1023,cause ,"n., v."
+1024,celebrate ,v.
+1025,celebrity ,n.
+1026,cell ,n.
+1027,century ,n.
+1028,certain ,adj.
+1029,certainly ,adv.
+1030,chance ,n.
+1031,character ,n.
+1032,charity ,n.
+1033,chat ,"v., n."
+1034,check ,n.
+1035,chef ,n.
+1036,chemistry ,n.
+1037,chip ,n.
+1038,choice ,n.
+1039,church ,n.
+1040,cigarette ,n.
+1041,circle ,"n., v."
+1042,classical ,adj.
+1043,clear ,adj.
+1044,clearly ,adv.
+1045,clerk ,n.
+1046,climate ,n.
+1047,close,adj.
+1048,closed ,adj.
+1049,closet ,n.
+1050,clothing ,n.
+1051,cloud ,n.
+1052,coach ,n.
+1053,coast ,n.
+1054,code ,n.
+1055,colleague ,n.
+1056,collect ,v.
+1057,column ,n.
+1058,comedy ,n.
+1059,comfortable ,adj.
+1060,comment ,n.
+1061,communicate ,v.
+1062,community ,n.
+1063,compete ,v.
+1064,competition ,n.
+1065,complain ,v.
+1066,completely ,adv.
+1067,condition ,n.
+1068,conference ,n.
+1069,connect ,v.
+1070,connected ,adj.
+1071,consider ,v.
+1072,contain ,v.
+1073,context ,n.
+1074,continent ,n.
+1075,continue ,v.
+1076,control ,"n., v."
+1077,cook ,n.
+1078,cookie ,n.
+1079,copy ,"n., v."
+1080,corner ,n.
+1081,correctly ,adv.
+1082,count ,v.
+1083,couple ,n.
+1084,cover ,v.
+1085,crazy ,adj.
+1086,creative ,adj.
+1087,credit ,n.
+1088,crime ,n.
+1089,criminal ,n.
+1090,cross ,"v., n."
+1091,crowd ,n.
+1092,crowded ,adj.
+1093,cry ,v.
+1094,curly ,adj.
+1095,cycle ,"n., v."
+1096,daily ,adj.
+1097,danger ,n.
+1098,dark ,n.
+1099,data ,n.
+1100,dead ,adj.
+1101,deal ,v.
+1102,death ,n.
+1103,decision ,n.
+1104,deep ,adj.
+1105,definitely ,adv.
+1106,degree ,n.
+1107,dentist ,n.
+1108,department ,n.
+1109,depend ,v.
+1110,desert ,n.
+1111,designer ,n.
+1112,dessert ,n.
+1113,destroy ,v.
+1114,detective ,n.
+1115,develop ,v.
+1116,device ,n.
+1117,diary ,n.
+1118,differently ,adv.
+1119,digital ,adj.
+1120,direct ,adj.
+1121,direction ,n.
+1122,director ,n.
+1123,disagree ,v.
+1124,disappear ,v.
+1125,disaster ,n.
+1126,discover ,v.
+1127,discovery ,n.
+1128,discussion ,n.
+1129,disease ,n.
+1130,distance ,n.
+1131,divorced ,adj.
+1132,document ,n.
+1133,double ,"adj., det., pron., v."
+1134,download ,"v., n."
+1135,downstairs ,adj.
+1136,downtown ,"adv., n., adj."
+1137,drama ,n.
+1138,drawing ,n.
+1139,dream ,"n., v."
+1140,drive ,n.
+1141,driving ,n.
+1142,drop ,v.
+1143,drug ,n.
+1144,dry ,"adj., v."
+1145,earn ,v.
+1146,earth ,n.
+1147,easily ,adv.
+1148,education ,n.
+1149,effect ,n.
+1150,either ,"det./pron., adv."
+1151,electric ,adj.
+1152,electrical ,adj.
+1153,electricity ,n.
+1154,electronic ,adj.
+1155,elevator ,n.
+1156,employ ,v.
+1157,employee ,n.
+1158,employer ,n.
+1159,empty ,adj.
+1160,ending ,n.
+1161,energy ,n.
+1162,engine ,n.
+1163,engineer ,n.
+1164,enormous ,adj.
+1165,enter ,v.
+1166,environment ,n.
+1167,equipment ,n.
+1168,error ,n.
+1169,especially ,adv.
+1170,essay ,n.
+1171,everyday ,adj.
+1172,everywhere ,adv.
+1173,evidence ,n.
+1174,exact ,adj.
+1175,exactly ,adv.
+1176,excellent ,adj.
+1177,except ,prep.
+1178,exist ,v.
+1179,expect ,v.
+1180,experience ,n.
+1181,experiment ,n.
+1182,expert ,"n.,adj."
+1183,explanation ,n.
+1184,express ,v.
+1185,expression ,n.
+1186,extreme ,adj.
+1187,extremely ,adv.
+1188,factor ,n.
+1189,factory ,n.
+1190,fail ,v.
+1191,fair ,adj.
+1192,fan ,n.
+1193,farm ,v.
+1194,farming ,n.
+1195,fashion ,n.
+1196,fat ,n.
+1197,fear ,n.
+1198,feature ,n.
+1199,feed ,v.
+1200,female ,"adj., n."
+1201,fever ,n.
+1202,fiction ,n.
+1203,field ,n.
+1204,fight ,"v., n."
+1205,figure ,n.
+1206,film ,"n., v."
+1207,final ,n.
+1208,finally ,adv.
+1209,finger ,n.
+1210,finish ,n.
+1211,fire ,v.
+1212,first ,n.
+1213,fish ,v.
+1214,fishing ,n.
+1215,fit ,"v., adj."
+1216,fix ,v.
+1217,flat ,adj.
+1218,flu ,n.
+1219,fly ,n.
+1220,flying ,"n., adj."
+1221,focus ,"v., n."
+1222,following ,adj.
+1223,foreign ,adj.
+1224,forest ,n.
+1225,fork ,n.
+1226,formal ,adj.
+1227,fortunately ,adv.
+1228,forward ,adv.
+1229,free ,adv.
+1230,fresh ,adj.
+1231,frog ,n.
+1232,fun ,adj.
+1233,furniture ,n.
+1234,further ,adj.
+1235,future ,adj.
+1236,gallery ,n.
+1237,gap ,n.
+1238,garbage ,n.
+1239,gas ,n.
+1240,gate ,n.
+1241,general ,adj.
+1242,gift ,n.
+1243,goal ,n.
+1244,god ,n.
+1245,gold ,"n., adj."
+1246,golf ,n.
+1247,good ,n.
+1248,government ,n.
+1249,grass ,n.
+1250,greet ,v.
+1251,grocery ,n.
+1252,ground ,n.
+1253,guest ,n.
+1254,guide ,"n., v."
+1255,gun ,n.
+1256,guy ,n.
+1257,habit ,n.
+1258,half ,adv.
+1259,hall ,n.
+1260,happily ,adv.
+1261,have ,auxiliary v.
+1262,headache ,n.
+1263,heart ,n.
+1264,heat ,"n., v."
+1265,heavy ,adj.
+1266,height ,n.
+1267,helpful ,adj.
+1268,hero ,n.
+1269,hers ,pron.
+1270,herself ,pron.
+1271,hide ,v.
+1272,high ,adv.
+1273,hill ,n.
+1274,himself ,pron.
+1275,his ,pron.
+1276,hit ,"v., n."
+1277,hockey ,n.
+1278,hold ,v.
+1279,hole ,n.
+1280,holiday ,n.
+1281,home ,adj.
+1282,hope ,n.
+1283,huge ,adj.
+1284,human ,"adj., n."
+1285,hurt ,"v., adj."
+1286,ideal ,adj.
+1287,identify ,v.
+1288,ill ,adj.
+1289,illness ,n.
+1290,image ,n.
+1291,immediately ,adv.
+1292,impossible ,adj.
+1293,included ,adj.
+1294,including ,prep.
+1295,increase ,"v., n."
+1296,incredible ,adj.
+1297,independent ,adj.
+1298,individual ,"n., adj."
+1299,industry ,n.
+1300,informal ,adj.
+1301,injury ,n.
+1302,insect ,n.
+1303,inside ,"prep., adv., n., adj."
+1304,instead ,adv.
+1305,instruction ,n.
+1306,instructor ,n.
+1307,instrument ,n.
+1308,intelligent ,adj.
+1309,international ,adj.
+1310,introduction ,n.
+1311,invent ,v.
+1312,invention ,n.
+1313,invitation ,n.
+1314,invite ,v.
+1315,involve ,v.
+1316,item ,n.
+1317,itself ,pron.
+1318,jam ,n.
+1319,jazz ,n.
+1320,jewelry ,n.
+1321,joke ,"n., v."
+1322,journalist ,n.
+1323,jump ,"v., n."
+1324,kid ,n.
+1325,kill ,v.
+1326,kilometer ,n.
+1327,king ,n.
+1328,knee ,n.
+1329,knife ,n.
+1330,knock ,v.
+1331,knowledge ,n.
+1332,lab ,n.
+1333,lady ,n.
+1334,lake ,n.
+1335,lamp ,n.
+1336,land ,v.
+1337,laptop ,n.
+1338,last," adv., n."
+1339,last,v.
+1340,later ,adj.
+1341,laughter ,n.
+1342,law ,n.
+1343,lawyer ,n.
+1344,lazy ,adj.
+1345,lead,v.
+1346,leader ,n.
+1347,learning ,n.
+1348,least ,"det./pron., adv."
+1349,lecture ,"n., v."
+1350,lemon ,n.
+1351,lend ,v.
+1352,less ,"det./pron., adv."
+1353,level ,n.
+1354,lifestyle ,n.
+1355,lift ,v.
+1356,light , v.
+1357,light , adj.
+1358,likely ,adj.
+1359,link ,"n., v."
+1360,listener ,n.
+1361,little ,adv.
+1362,lock ,"v., n."
+1363,look ,n.
+1364,lost ,adj.
+1365,loud ,"adj., adv."
+1366,loudly ,adv.
+1367,low ,"adj., adv."
+1368,luck ,n.
+1369,lucky ,adj.
+1370,mail ,"n., v."
+1371,major ,adj.
+1372,male ,"adj., n."
+1373,manage ,v.
+1374,manager ,n.
+1375,manner ,n.
+1376,mark ,"v., n."
+1377,marry ,v.
+1378,material ,n.
+1379,math ,n.
+1380,mathematics ,n.
+1381,matter ,"n., v."
+1382,may ,modal v.
+1383,mayor ,n.
+1384,media ,n.
+1385,medical ,adj.
+1386,medicine ,n.
+1387,memory ,n.
+1388,mention ,v.
+1389,metal ,n.
+1390,method ,n.
+1391,middle ,"n., adj."
+1392,might ,modal v.
+1393,mind ,"n., v."
+1394,mine , pron.
+1395,mirror ,n.
+1396,missing ,adj.
+1397,monkey ,n.
+1398,moon ,n.
+1399,mostly ,adv.
+1400,motorcycle ,n.
+1401,movement ,n.
+1402,musical ,adj.
+1403,musician ,n.
+1404,myself ,pron.
+1405,narrow ,adj.
+1406,national ,adj.
+1407,nature ,n.
+1408,nearly ,adv.
+1409,necessary ,adj.
+1410,neck ,n.
+1411,need ,n.
+1412,neither ,det./pron.
+1413,nervous ,adj.
+1414,network ,n.
+1415,noise ,n.
+1416,noisy ,adj.
+1417,none ,pron.
+1418,normal ,adj.
+1419,normally ,adv.
+1420,notice ,"v., n."
+1421,novel ,n.
+1422,nowhere ,adv.
+1423,number ,v.
+1424,nut ,n.
+1425,offer ,"v., n."
+1426,officer ,n.
+1427,oil ,n.
+1428,onto ,prep.
+1429,opportunity ,n.
+1430,option ,n.
+1431,ordinary ,adj.
+1432,organization ,n.
+1433,organize ,v.
+1434,original ,adj.
+1435,ourselves ,pron.
+1436,outside ,"prep., n., adj."
+1437,oven ,n.
+1438,overseas ,adv.
+1439,own ,v.
+1440,owner ,n.
+1441,pack ,v.
+1442,pain ,n.
+1443,painter ,n.
+1444,palace ,n.
+1445,parking ,n.
+1446,particular ,adj.
+1447,pass ,v.
+1448,passenger ,n.
+1449,past ,adv.
+1450,patient ,n.
+1451,pattern ,n.
+1452,pay ,n.
+1453,peace ,n.
+1454,penny ,n.
+1455,per ,prep.
+1456,percent ,"noun., adj./adv."
+1457,perform ,v.
+1458,perhaps ,adv.
+1459,permission ,n.
+1460,personality ,n.
+1461,pet ,n.
+1462,photograph ,v.
+1463,physical ,adj.
+1464,physics ,n.
+1465,pick ,v.
+1466,pilot ,n.
+1467,planet ,n.
+1468,plant ,v.
+1469,plastic ,"n., adj."
+1470,plate ,n.
+1471,platform ,n.
+1472,please ,v.
+1473,pleased ,adj.
+1474,pocket ,n.
+1475,polite ,adj.
+1476,pollution ,n.
+1477,pop ,"n., adj."
+1478,population ,n.
+1479,position ,n.
+1480,possession ,n.
+1481,possibility ,n.
+1482,poster ,n.
+1483,power ,n.
+1484,predict ,v.
+1485,present ,v.
+1486,president ,n.
+1487,prevent ,v.
+1488,print ,v.
+1489,printer ,n.
+1490,prison ,n.
+1491,prize ,n.
+1492,process ,n.
+1493,produce ,v.
+1494,professional ,adj.
+1495,professor ,n.
+1496,profile ,n.
+1497,progress ,n.
+1498,promise ,"v., n."
+1499,pronounce ,v.
+1500,protect ,v.
+1501,provide ,v.
+1502,public ,"adj., n."
+1503,publish ,v.
+1504,pull ,v.
+1505,purpose ,n.
+1506,push ,v.
+1507,quality ,n.
+1508,quantity ,n.
+1509,queen ,n.
+1510,question ,v.
+1511,quietly ,adv.
+1512,race ," n., v."
+1513,railroad ,n.
+1514,raise ,v.
+1515,rate ,n.
+1516,rather ,adv.
+1517,reach ,v.
+1518,react ,v.
+1519,realize ,v.
+1520,receive ,v.
+1521,recent ,adj.
+1522,recently ,adv.
+1523,reception ,n.
+1524,recipe ,n.
+1525,recognize ,v.
+1526,recommend ,v.
+1527,record ,"n., v."
+1528,recording ,n.
+1529,recycle ,v.
+1530,reduce ,v.
+1531,refer ,v.
+1532,refrigerator ,n.
+1533,refuse,v.
+1534,region ,n.
+1535,regular ,adj.
+1536,relationship ,n.
+1537,remove ,v.
+1538,repair ,v.
+1539,replace ,v.
+1540,reply ,"v., n."
+1541,report ,v.
+1542,reporter ,n.
+1543,request ,n.
+1544,research ,"n., v."
+1545,researcher ,n.
+1546,respond ,v.
+1547,response ,n.
+1548,rest , n.
+1549,rest ," n., v."
+1550,review ,"n., v."
+1551,ride ,n.
+1552,ring,n.
+1553,ring,v.
+1554,rise ,v.
+1555,rock , n.
+1556,rock, n.
+1557,role ,n.
+1558,roof ,n.
+1559,round ,"adj., adv., prep."
+1560,route ,n.
+1561,rude ,adj.
+1562,run ,n.
+1563,runner ,n.
+1564,running ,n.
+1565,sadly ,adv.
+1566,safe ,adj.
+1567,sail ,v.
+1568,sailing ,n.
+1569,salary ,n.
+1570,sale ,n.
+1571,sauce ,n.
+1572,save ,v.
+1573,scared ,adj.
+1574,scary ,adj.
+1575,scene ,n.
+1576,schedule ,n.
+1577,score ,"v., n."
+1578,screen ,n.
+1579,sea ,n.
+1580,search ,"n., v."
+1581,season ,n.
+1582,seat ,n.
+1583,second, adv.
+1584,secret ,"adj., n."
+1585,secretary ,n.
+1586,seem ,v.
+1587,sense ,n.
+1588,separate ,adj.
+1589,series ,n.
+1590,serious ,adj.
+1591,serve ,v.
+1592,service ,n.
+1593,several ,det./pron.
+1594,shake ,v.
+1595,shape ,n.
+1596,sheet ,n.
+1597,ship ,n.
+1598,shoulder ,n.
+1599,shout ,"v., n."
+1600,shut ,"v., adj."
+1601,side ,n.
+1602,sign ,"n., v."
+1603,silver ,"n., adj."
+1604,simple ,adj.
+1605,since ,"prep., conj."
+1606,singing ,n.
+1607,single ,"adj., n."
+1608,sir ,n.
+1609,site ,n.
+1610,size ,n.
+1611,ski ,"v., adj., n."
+1612,skiing ,n.
+1613,skin ,n.
+1614,sky ,n.
+1615,sleep ,n.
+1616,slowly ,adv.
+1617,smartphone ,n.
+1618,smell ,"v., n."
+1619,smile ,"v., n."
+1620,smoke ,"n., v."
+1621,smoking ,n.
+1622,sneaker ,n.
+1623,soap ,n.
+1624,soccer ,n.
+1625,social ,adj.
+1626,society ,n.
+1627,sock ,n.
+1628,soft ,adj.
+1629,soldier ,n.
+1630,solution ,n.
+1631,solve ,v.
+1632,somewhere ,"adv., pron."
+1633,sort ,n.
+1634,source ,n.
+1635,speaker ,n.
+1636,specific ,adj.
+1637,speech ,n.
+1638,speed ,n.
+1639,spider ,n.
+1640,spoon ,n.
+1641,square ,"adj., n."
+1642,stage ,n.
+1643,stair ,n.
+1644,stamp ,n.
+1645,star ,v.
+1646,start ,n.
+1647,state ,n.
+1648,stay ,n.
+1649,steal ,v.
+1650,step ,n.
+1651,stomach ,n.
+1652,stone ,n.
+1653,storm ,"n., v."
+1654,stove ,n.
+1655,straight ,"adv., adj."
+1656,strange ,adj.
+1657,strategy ,n.
+1658,stress ,"n., v."
+1659,structure ,n.
+1660,stupid ,adj.
+1661,subway ,n.
+1662,succeed ,v.
+1663,successful ,adj.
+1664,such ,det./pron.
+1665,suddenly ,adv.
+1666,suggest ,v.
+1667,suggestion ,n.
+1668,suit ,n.
+1669,support ,"v., n."
+1670,suppose ,v.
+1671,sure ,adv.
+1672,surprise ,"n., v."
+1673,surprised ,adj.
+1674,surprising ,adj.
+1675,survey ,n.
+1676,sweet ,"adj., n."
+1677,symbol ,n.
+1678,system ,n.
+1679,tablet ,n.
+1680,talk ,n.
+1681,target ,n.
+1682,task ,n.
+1683,taste ,"n., v."
+1684,teaching ,n.
+1685,technology ,n.
+1686,teenage ,adj.
+1687,temperature ,n.
+1688,term ,n.
+1689,text ,v.
+1690,themselves ,pron.
+1691,thick ,adj.
+1692,thief ,n.
+1693,thin ,adj.
+1694,thinking ,n.
+1695,third ,n.
+1696,thought ,n.
+1697,throw ,v.
+1698,tie ,"v., n."
+1699,tip ,n.
+1700,tool ,n.
+1701,top ,"n., adj."
+1702,touch ,v.
+1703,tour ,n.
+1704,tourism ,n.
+1705,toward ,prep.
+1706,towel ,n.
+1707,tower ,n.
+1708,toy ,"n., adj."
+1709,track ,n.
+1710,tradition ,n.
+1711,traditional ,adj.
+1712,train ,v.
+1713,training ,n.
+1714,transportation ,n.
+1715,trash ,n.
+1716,traveler ,n.
+1717,trouble ,n.
+1718,twin ,"n., adj."
+1719,typical ,adj.
+1720,underground ,"adj., adv."
+1721,understanding ,n.
+1722,unfortunately ,adv.
+1723,unhappy ,adj.
+1724,uniform ,n.
+1725,unit ,n.
+1726,united ,adj.
+1727,unusual ,adj.
+1728,upstairs ,adj.
+1729,use ,n.
+1730,used to, modal v.
+1731,user ,n.
+1732,usual ,adj.
+1733,valley ,n.
+1734,variety ,n.
+1735,vehicle ,n.
+1736,view ,n.
+1737,village ,n.
+1738,virus ,n.
+1739,voice ,n.
+1740,wait ,n.
+1741,war ,n.
+1742,wash ,n.
+1743,washing ,n.
+1744,wave ,n.
+1745,weak ,adj.
+1746,web ,n.
+1747,wedding ,n.
+1748,weight ,n.
+1749,welcome ,n.
+1750,wet ,adj.
+1751,wheel ,n.
+1752,while ,conj.
+1753,whole ,adj.
+1754,whose ,det./pron.
+1755,wide ,adj.
+1756,wild ,adj.
+1757,wind,n.
+1758,winner ,n.
+1759,wish ,"v, n."
+1760,wood ,n.
+1761,wooden ,adj.
+1762,working ,adj.
+1763,worried ,adj.
+1764,worry ,v.
+1765,worse ,adj.
+1766,worst ,adj.
+1767,wow ,exclam.
+1768,yet ,adv.
+1769,yours ,pron.
+1770,zero ,number
+1771,absolutely ,adv.
+1772,academic ,adj.
+1773,access ,"n., v."
+1774,account ,n.
+1775,achievement ,n.
+1776,act ,n.
+1777,ad ,n.
+1778,addition ,n.
+1779,administration ,n.
+1780,admire ,v.
+1781,admit ,v.
+1782,advanced ,adj.
+1783,advise ,v.
+1784,afford ,v.
+1785,age ,v.
+1786,agent ,n.
+1787,agreement ,n.
+1788,ahead ,adv.
+1789,aim ,"v., n."
+1790,alarm ,n.
+1791,album ,n.
+1792,alcohol ,n.
+1793,alcoholic ,adj.
+1794,alternative ,adj.
+1795,amazed ,adj.
+1796,ambition ,n.
+1797,analysis ,n.
+1798,announce ,v.
+1799,announcement ,n.
+1800,annoy ,v.
+1801,annoyed ,adj.
+1802,annoying ,adj.
+1803,apart ,adv.
+1804,apologize ,v.
+1805,application ,n.
+1806,appointment ,n.
+1807,appreciate ,v.
+1808,approximately ,adv.
+1809,arrest ,"v., n."
+1810,arrival ,n.
+1811,assignment ,n.
+1812,assist ,v.
+1813,atmosphere ,n.
+1814,attach ,v.
+1815,attitude ,n.
+1816,attract ,v.
+1817,attraction ,n.
+1818,authority ,n.
+1819,automatic ,adj.
+1820,automatically ,adv.
+1821,average ,v.
+1822,award ,v.
+1823,aware ,adj.
+1824,backward ,adv.
+1825,bake ,v.
+1826,balance ,"n., v."
+1827,ban ,"v., n."
+1828,bank , n.
+1829,base ,"n., v."
+1830,basic ,adj.
+1831,basis ,n.
+1832,battery ,n.
+1833,battle ,n.
+1834,beauty ,n.
+1835,bee ,n.
+1836,belief ,n.
+1837,bell ,n.
+1838,bend ,"v., n."
+1839,benefit ,v.
+1840,better ,n.
+1841,bite ,"v., n."
+1842,block ,v.
+1843,board ,v.
+1844,bomb ,"n., v."
+1845,border ,n.
+1846,bother ,v.
+1847,branch ,n.
+1848,brand ,"n., v."
+1849,brave ,adj.
+1850,breath ,n.
+1851,breathe ,v.
+1852,breathing ,n.
+1853,bride ,n.
+1854,bubble ,n.
+1855,bury ,v.
+1856,by ,adv.
+1857,cable ,n.
+1858,calm ,"adj., v., n."
+1859,campaign ,"n., v."
+1860,candidate ,n.
+1861,cap ,n.
+1862,captain ,n.
+1863,careless ,adj.
+1864,category ,n.
+1865,ceiling ,n.
+1866,celebration ,n.
+1867,center ,v.
+1868,central ,adj.
+1869,ceremony ,n.
+1870,chain ,n.
+1871,challenge ,n.
+1872,champion ,n.
+1873,channel ,n.
+1874,chapter ,n.
+1875,charge ,"n., v."
+1876,cheap ,adv.
+1877,cheat ,"v., n."
+1878,cheerful ,adj.
+1879,chemical ,"adj., n."
+1880,chest ,n.
+1881,childhood ,n.
+1882,claim ,"v., n."
+1883,clause ,n.
+1884,clear ,v.
+1885,clever ,adj.
+1886,click ,"v., n."
+1887,client ,n.
+1888,climb ,n.
+1889,close,adv.
+1890,cloth ,n.
+1891,clue ,n.
+1892,coach ,v.
+1893,coal ,n.
+1894,coin ,n.
+1895,collection ,n.
+1896,colored ,adj.
+1897,combine ,v.
+1898,comment ,v.
+1899,commercial ,"adj., n."
+1900,commit ,v.
+1901,communication ,n.
+1902,comparison ,n.
+1903,competitive ,adj.
+1904,competitor ,n.
+1905,complaint ,n.
+1906,complex ,adj.
+1907,concentrate ,v.
+1908,conclude ,v.
+1909,conclusion ,n.
+1910,confident ,adj.
+1911,confirm ,v.
+1912,confuse ,v.
+1913,confused ,adj.
+1914,connection ,n.
+1915,consequence ,n.
+1916,consist ,v.
+1917,consume ,v.
+1918,consumer ,n.
+1919,contact ,"n., v."
+1920,container ,n.
+1921,content,n.
+1922,continuous ,adj.
+1923,contrast ,"n., v."
+1924,convenient ,adj.
+1925,convince ,v.
+1926,cool ,v.
+1927,corn ,n.
+1928,costume ,n.
+1929,cotton ,n.
+1930,count ,n.
+1931,countryside ,n.
+1932,court ,n.
+1933,cover ,n.
+1934,covered ,adj.
+1935,cream ,adj.
+1936,criminal ,adj.
+1937,cruel ,adj.
+1938,cultural ,adj.
+1939,cupboard ,n.
+1940,currency ,n.
+1941,current ,adj.
+1942,currently ,adv.
+1943,curtain ,n.
+1944,custom ,n.
+1945,cut ,n.
+1946,daily ,adv.
+1947,damage ,"n., v."
+1948,deal ,n.
+1949,decade ,n.
+1950,deep ,adv.
+1951,define ,v.
+1952,definite ,adj.
+1953,definition ,n.
+1954,deliver ,v.
+1955,departure ,n.
+1956,despite ,prep.
+1957,destination ,n.
+1958,determine ,v.
+1959,determined ,adj.
+1960,development ,n.
+1961,diagram ,n.
+1962,diamond ,n.
+1963,difficulty ,n.
+1964,direct ,"v., adv."
+1965,directly ,adv.
+1966,dirt ,n.
+1967,disadvantage ,n.
+1968,disappointed ,adj.
+1969,disappointing ,adj.
+1970,discount ,n.
+1971,dislike ,"v., n."
+1972,district ,n.
+1973,divide ,v.
+1974,documentary ,n.
+1975,donate ,v.
+1976,double ,adv.
+1977,doubt ,"n., v."
+1978,dressed ,adj.
+1979,drop ,n.
+1980,drum ,n.
+1981,drunk ,adj.
+1982,due ,adj.
+1983,dust ,n.
+1984,duty ,n.
+1985,earthquake ,n.
+1986,eastern ,adj.
+1987,economic ,adj.
+1988,economy ,n.
+1989,edge ,n.
+1990,editor ,n.
+1991,educate ,v.
+1992,educated ,adj.
+1993,educational ,adj.
+1994,effective ,adj.
+1995,effectively ,adv.
+1996,effort ,n.
+1997,election ,n.
+1998,element ,n.
+1999,embarrassed ,adj.
+2000,embarrassing ,adj.
+2001,emergency ,n.
+2002,emotion ,n.
+2003,employment ,n.
+2004,empty ,v.
+2005,encourage ,v.
+2006,enemy ,n.
+2007,engaged ,adj.
+2008,engineering ,n.
+2009,entertain ,v.
+2010,entertainment ,n.
+2011,entrance ,n.
+2012,entry ,n.
+2013,environmental ,adj.
+2014,episode ,n.
+2015,equal ,"adj., v."
+2016,equally ,adv.
+2017,escape ,"v., n."
+2018,essential ,adj.
+2019,eventually ,adv.
+2020,examine ,v.
+2021,except ,conj.
+2022,exchange ,"n., v."
+2023,excitement ,n.
+2024,exhibition ,n.
+2025,exit ,n.
+2026,expand ,v.
+2027,expected ,adj.
+2028,experience ,v.
+2029,experienced ,adj.
+2030,experiment ,v.
+2031,explode ,v.
+2032,explore ,v.
+2033,explosion ,n.
+2034,export ,"n., v."
+2035,extra ,"n., adv."
+2036,face ,v.
+2037,fairly ,adv.
+2038,familiar ,adj.
+2039,fancy ,adj.
+2040,far ,adj.
+2041,fascinating ,adj.
+2042,fashionable ,adj.
+2043,fasten ,v.
+2044,favor ,n.
+2045,fear ,v.
+2046,feature ,v.
+2047,federal ,adj.
+2048,fence ,n.
+2049,fighting ,n.
+2050,file ,n.
+2051,financial ,adj.
+2052,fitness ,n.
+2053,fixed ,adj.
+2054,flag ,n.
+2055,flood ,"n., v."
+2056,flour ,n.
+2057,flow ,"v., n."
+2058,fold ,v.
+2059,folk ,"n., adj."
+2060,following ,n.
+2061,force ,"n., v."
+2062,forever ,adv.
+2063,frame ,"n., v."
+2064,freeze ,v.
+2065,frequently ,adv.
+2066,friendship ,n.
+2067,frighten ,v.
+2068,frightened ,adj.
+2069,frightening ,adj.
+2070,frozen ,adj.
+2071,fry ,v.
+2072,fuel ,n.
+2073,function ,n.
+2074,fur ,n.
+2075,further ,adv.
+2076,garage ,n.
+2077,gather ,v.
+2078,generally ,adv.
+2079,generation ,n.
+2080,generous ,adj.
+2081,gentle ,adj.
+2082,gentleman ,n.
+2083,ghost ,n.
+2084,giant ,"adj., n."
+2085,glad ,adj.
+2086,global ,adj.
+2087,glove ,n.
+2088,go ,n.
+2089,grade ,n.
+2090,graduate ,"n., v."
+2091,grain ,n.
+2092,grateful ,adj.
+2093,growth ,n.
+2094,guard ,"n., v."
+2095,guilty ,adj.
+2096,hand ,v.
+2097,hang ,v.
+2098,happiness ,n.
+2099,hardly ,adv.
+2100,hate ,n.
+2101,head ,v.
+2102,headline ,n.
+2103,heating ,n.
+2104,heavily ,adv.
+2105,helicopter ,n.
+2106,highlight ,"v., n."
+2107,highly ,adv.
+2108,highway ,n.
+2109,hire ,v.
+2110,historic ,adj.
+2111,historical ,adj.
+2112,honest ,adj.
+2113,horrible ,adj.
+2114,horror ,n.
+2115,host ,n.
+2116,hunt ,v.
+2117,hurricane ,n.
+2118,hurry ,"n., v."
+2119,identity ,n.
+2120,ignore ,v.
+2121,illegal ,adj.
+2122,imaginary ,adj.
+2123,immediate ,adj.
+2124,immigrant ,n.
+2125,impact ,"n., v."
+2126,import ,"n., v."
+2127,importance ,n.
+2128,impression ,n.
+2129,impressive ,adj.
+2130,improvement ,n.
+2131,incredibly ,adv.
+2132,indeed ,adv.
+2133,indicate ,v.
+2134,indirect ,adj.
+2135,indoor ,adj.
+2136,indoors ,adv.
+2137,influence ,"n., v."
+2138,ingredient ,n.
+2139,injure ,v.
+2140,injured ,adj.
+2141,innocent ,adj.
+2142,intelligence ,n.
+2143,intend ,v.
+2144,intention ,n.
+2145,invest ,v.
+2146,investigate ,v.
+2147,involved ,adj.
+2148,iron ,"n., v."
+2149,issue ,n.
+2150,IT ,n.
+2151,journal ,n.
+2152,journey ,n.
+2153,judge ,"n., v."
+2154,key ,v.
+2155,keyboard ,n.
+2156,kick ,"v., n."
+2157,killing ,n.
+2158,kind , adj.
+2159,kiss ,"v., n."
+2160,knock ,n.
+2161,label ,"n., v."
+2162,laboratory ,n.
+2163,lack ,"n., v."
+2164,latest ,adj.
+2165,lay ,v.
+2166,layer ,n.
+2167,lead,n.
+2168,leading ,adj.
+2169,leaf ,n.
+2170,leather ,n.
+2171,legal ,adj.
+2172,leisure ,n.
+2173,length ,n.
+2174,level ,adj.
+2175,lie," v., n."
+2176,like , n.
+2177,limit ,"n., v."
+2178,lip ,n.
+2179,liquid ,"n., adj."
+2180,literature ,n.
+2181,live,"adj., adv."
+2182,living ,"adj., n."
+2183,local ,n.
+2184,locate ,v.
+2185,located ,adj.
+2186,location ,n.
+2187,lonely ,adj.
+2188,loss ,n.
+2189,luxury ,n.
+2190,mad ,adj.
+2191,magic ,"n., adj."
+2192,mainly ,adv.
+2193,management ,n.
+2194,market ,v.
+2195,marketing ,n.
+2196,marriage ,n.
+2197,meanwhile ,adv.
+2198,measure ,"v., n."
+2199,medium ,adj.
+2200,mental ,adj.
+2201,mention ,n.
+2202,mess ,n.
+2203,mild ,adj.
+2204,mine , n.
+2205,mix ,"v., n."
+2206,mixture ,n.
+2207,mood ,n.
+2208,move ,n.
+2209,mud ,n.
+2210,murder ,"n., v."
+2211,muscle ,n.
+2212,musical ,n.
+2213,mystery ,n.
+2214,nail ,n.
+2215,narrative ,"n., adj."
+2216,nation ,n.
+2217,native ,"adj., n."
+2218,naturally ,adv.
+2219,neat ,adj.
+2220,necessarily ,adv.
+2221,need ,modal v.
+2222,needle ,n.
+2223,neither ,adv.
+2224,net ,n.
+2225,next ,n.
+2226,nor ,conj./adv.
+2227,normal ,n.
+2228,northern ,adj.
+2229,note ,v.
+2230,now ,conj.
+2231,nuclear ,adj.
+2232,obvious ,adj.
+2233,obviously ,adv.
+2234,occasion ,n.
+2235,occur ,v.
+2236,odd ,adj.
+2237,official ,adj.
+2238,old-fashioned ,adj.
+2239,once ,conj.
+2240,operation ,n.
+2241,organized ,adj.
+2242,organizer ,n.
+2243,original ,n.
+2244,originally ,adv.
+2245,ought ,modal v.
+2246,ours ,pron.
+2247,outdoor ,adj.
+2248,outdoors ,adv.
+2249,overseas ,adj.
+2250,pack ,n.
+2251,package ,n.
+2252,painful ,adj.
+2253,pale ,adj.
+2254,pan ,n.
+2255,participate ,v.
+2256,particularly ,adv.
+2257,pass ,n.
+2258,passion ,n.
+2259,path ,n.
+2260,payment ,n.
+2261,peaceful ,adj.
+2262,percentage ,n.
+2263,perfectly ,adv.
+2264,performance ,n.
+2265,personally ,adv.
+2266,persuade ,v.
+2267,photographer ,n.
+2268,photography ,n.
+2269,pin ,"n., v."
+2270,pipe ,n.
+2271,place ,v.
+2272,planning ,n.
+2273,pleasant ,adj.
+2274,pleasure ,n.
+2275,plenty ,pron.
+2276,plot ,n.
+2277,plus,prep.
+2278,poem ,n.
+2279,poet ,n.
+2280,poetry ,n.
+2281,point ,v.
+2282,poison ,"n., v."
+2283,poisonous ,adj.
+2284,policy ,n.
+2285,political ,adj.
+2286,politician ,n.
+2287,politics ,n.
+2288,port ,n.
+2289,portrait ,n.
+2290,possibly ,adv.
+2291,pot ,n.
+2292,pour ,v.
+2293,poverty ,n.
+2294,powder ,n.
+2295,powerful ,adj.
+2296,practical ,adj.
+2297,pray ,v.
+2298,prayer ,n.
+2299,prediction ,n.
+2300,prepared ,adj.
+2301,presentation ,n.
+2302,press ,"n., v."
+2303,pressure ,n.
+2304,pretend ,v.
+2305,previous ,adj.
+2306,previously ,adv.
+2307,priest ,n.
+2308,primary ,adj.
+2309,prince ,n.
+2310,princess ,n.
+2311,principal ,n.
+2312,printing ,n.
+2313,prisoner ,n.
+2314,private ,adj.
+2315,producer ,n.
+2316,production ,n.
+2317,profession ,n.
+2318,profit ,n.
+2319,program ,v.
+2320,promote ,v.
+2321,proper ,adj.
+2322,properly ,adv.
+2323,property ,n.
+2324,protest ,"n., v."
+2325,proud ,adj.
+2326,prove ,v.
+2327,pull ,n.
+2328,punish ,v.
+2329,punishment ,n.
+2330,push ,n.
+2331,qualification ,n.
+2332,qualified ,adj.
+2333,qualify ,v.
+2334,quit ,v.
+2335,quotation ,n.
+2336,quote ,"v., n."
+2337,race , n.
+2338,racing ,n.
+2339,raise ,n.
+2340,range ,n.
+2341,rare ,adj.
+2342,rarely ,adv.
+2343,reaction ,n.
+2344,reality ,n.
+2345,receipt ,n.
+2346,recommendation ,n.
+2347,reference ,n.
+2348,reflect ,v.
+2349,regularly ,adv.
+2350,reject ,v.
+2351,relate ,v.
+2352,related ,adj.
+2353,relation ,n.
+2354,relative ,"adj., n."
+2355,relaxed ,adj.
+2356,relaxing ,adj.
+2357,release ,"v., n."
+2358,reliable ,adj.
+2359,religion ,n.
+2360,religious ,adj.
+2361,remain ,v.
+2362,remind ,v.
+2363,remote ,adj.
+2364,rent ,"n., v."
+2365,repair ,n.
+2366,repeat ,n.
+2367,repeated ,adj.
+2368,represent ,v.
+2369,request ,v.
+2370,require ,v.
+2371,reservation ,n.
+2372,resource ,n.
+2373,respect ,"n., v."
+2374,responsibility ,n.
+2375,responsible ,adj.
+2376,result ,v.
+2377,retire ,v.
+2378,retired ,adj.
+2379,revise ,v.
+2380,ring,n.
+2381,risk ,"n., v."
+2382,robot ,n.
+2383,roll ,"v., n."
+2384,romantic ,adj.
+2385,rope ,n.
+2386,rough ,adj.
+2387,row,n.
+2388,royal ,adj.
+2389,rule ,v.
+2390,safety ,n.
+2391,sail ,n.
+2392,sailor ,n.
+2393,sample ,n.
+2394,sand ,n.
+2395,scan ,v.
+2396,scientific ,adj.
+2397,script ,n.
+2398,sculpture ,n.
+2399,secondary ,adj.
+2400,security ,n.
+2401,seed ,n.
+2402,sensible ,adj.
+2403,separate ,v.
+2404,seriously ,adv.
+2405,servant ,n.
+2406,set , v.
+2407,set , n.
+2408,setting ,n.
+2409,sex ,n.
+2410,sexual ,adj.
+2411,shake ,n.
+2412,share ,n.
+2413,sharp ,adj.
+2414,shelf ,n.
+2415,shell ,n.
+2416,shift ,n.
+2417,shine ,v.
+2418,shiny ,adj.
+2419,shoot ,v.
+2420,shy ,adj.
+2421,sight ,n.
+2422,signal ,"n., v."
+2423,silent ,adj.
+2424,silly ,adj.
+2425,similarity ,n.
+2426,similarly ,adv.
+2427,simply ,adv.
+2428,since ,adv.
+2429,sink ,v.
+2430,slave ,n.
+2431,slice ,"n., v."
+2432,slightly ,adv.
+2433,slow ,v.
+2434,smooth ,adj.
+2435,software ,n.
+2436,soil ,n.
+2437,solid ,"adj., n."
+2438,sort ,v.
+2439,southern ,adj.
+2440,specifically ,adv.
+2441,spending ,n.
+2442,spicy ,adj.
+2443,spirit ,n.
+2444,spoken ,adj.
+2445,spot ,n.
+2446,spread ,v.
+2447,spring ,v.
+2448,stadium ,n.
+2449,staff ,n.
+2450,standard ,"n., adj."
+2451,state ,"adj., v."
+2452,statistic ,n.
+2453,statue ,n.
+2454,stick , v.
+2455,stick , n.
+2456,still ,adj.
+2457,store ,v.
+2458,stranger ,n.
+2459,strength ,n.
+2460,string ,n.
+2461,strongly ,adv.
+2462,studio ,n.
+2463,stuff ,n.
+2464,substance ,n.
+2465,successfully ,adv.
+2466,sudden ,adj.
+2467,suffer ,v.
+2468,suit ,v.
+2469,suitable ,adj.
+2470,summarize ,v.
+2471,summary ,n.
+2472,supply ,"n., v."
+2473,supporter ,n.
+2474,surely ,adv.
+2475,surface ,n.
+2476,survive ,v.
+2477,swim ,n.
+2478,switch ,v.
+2479,symptom ,n.
+2480,tail ,n.
+2481,talent ,n.
+2482,talented ,adj.
+2483,tape ,n.
+2484,tax ,"n., v."
+2485,technical ,adj.
+2486,technique ,n.
+2487,tend ,v.
+2488,tent ,n.
+2489,that ,adv.
+2490,theirs ,pron.
+2491,theme ,n.
+2492,theory ,n.
+2493,therefore ,adv.
+2494,this ,adv.
+2495,though ,"conj., adv."
+2496,throat ,n.
+2497,throughout ,prep./adv.
+2498,tight ,adj.
+2499,till ,conj./prep.
+2500,tiny ,adj.
+2501,tip ,v.
+2502,tire ,n.
+2503,toe ,n.
+2504,ton ,n.
+2505,tongue ,n.
+2506,total ,"adj., n."
+2507,totally ,adv.
+2508,touch ,n.
+2509,tour ,v.
+2510,trade ,"n., v."
+2511,trainer ,n.
+2512,translate ,v.
+2513,translation ,n.
+2514,transport ,v.
+2515,treat ,v.
+2516,treatment ,n.
+2517,trend ,n.
+2518,trick ,"n., v."
+2519,truth ,n.
+2520,tube ,n.
+2521,type ,v.
+2522,typically ,adv.
+2523,ugly ,adj.
+2524,unable ,adj.
+2525,uncomfortable ,adj.
+2526,underwear ,n.
+2527,unemployed ,adj.
+2528,unemployment ,n.
+2529,unfair ,adj.
+2530,union ,n.
+2531,unless ,conj.
+2532,unlike ,prep.
+2533,unlikely ,adj.
+2534,unnecessary ,adj.
+2535,unpleasant ,adj.
+2536,update ,"v., n."
+2537,upon ,prep.
+2538,upset ,"adj., v."
+2539,used,adj.
+2540,used,adj.
+2541,valuable ,adj.
+2542,value ,n.
+2543,various ,adj.
+2544,version ,n.
+2545,victim ,n.
+2546,view ,v.
+2547,viewer ,n.
+2548,violent ,adj.
+2549,volunteer ,"n., v."
+2550,vote ,"n., v."
+2551,warm ,v.
+2552,warn ,v.
+2553,warning ,n.
+2554,waste ,"n., v., adj."
+2555,water ,v.
+2556,wave ,v.
+2557,weapon ,n.
+2558,weigh ,v.
+2559,western ,adj.
+2560,whatever ,det./pron.
+2561,whenever ,conj.
+2562,whether ,conj.
+2563,while ,n.
+2564,whole ,n.
+2565,will ,n.
+2566,win ,n.
+2567,wing ,n.
+2568,within ,prep.
+2569,wonder ,"v., n."
+2570,wool ,n.
+2571,worldwide ,"adj., adv."
+2572,worry ,n.
+2573,worse ,adv.
+2574,worst ,adv.
+2575,worth ,adj.
+2576,written ,adj.
+2577,wrong ,adv.
+2578,young ,n.
+2579,youth ,n.
+2580,abandon ,v.
+2581,abroad ,adv.
+2582,absolute ,adj.
+2583,acceptable ,adj.
+2584,accompany ,v.
+2585,account ,v.
+2586,accurate ,adj.
+2587,accuse ,v.
+2588,acknowledge ,v.
+2589,acquire ,v.
+2590,actual ,adj.
+2591,adapt ,v.
+2592,additional ,adj.
+2593,address ,v.
+2594,adopt ,v.
+2595,advance ,"n., v., adj."
+2596,affair ,n.
+2597,afterward ,adv.
+2598,agency ,n.
+2599,agenda ,n.
+2600,aggressive ,adj.
+2601,aid ,"n., v."
+2602,aircraft ,n.
+2603,alarm ,v.
+2604,alter ,v.
+2605,amount ,v.
+2606,anger ,n.
+2607,angle ,n.
+2608,anniversary ,n.
+2609,annual ,adj.
+2610,anxious ,adj.
+2611,apparent ,adj.
+2612,apparently ,adv.
+2613,appeal ,"n., v."
+2614,approach ,"n., v."
+2615,appropriate ,adj.
+2616,approval ,n.
+2617,approve ,v.
+2618,arise ,v.
+2619,armed ,adj.
+2620,arms ,n.
+2621,artificial ,adj.
+2622,artistic ,adj.
+2623,ashamed ,adj.
+2624,aside ,adv.
+2625,aspect ,n.
+2626,assess ,v.
+2627,assessment ,n.
+2628,associate ,v.
+2629,associated ,adj.
+2630,association ,n.
+2631,assume ,v.
+2632,attempt ,"n., v."
+2633,attorney ,n.
+2634,back ,v.
+2635,bacteria ,n.
+2636,bar ,v.
+2637,barrier ,n.
+2638,basically ,adv.
+2639,battle ,v.
+2640,bear , v.
+2641,beat ,n.
+2642,beg ,v.
+2643,being ,n.
+2644,bent ,adj.
+2645,bet ,"v., n."
+2646,beyond ,"prep., adv."
+2647,bill ,v.
+2648,bitter ,adj.
+2649,blame ,"v., n."
+2650,blind ,adj.
+2651,bond ,n.
+2652,border ,v.
+2653,breast ,n.
+2654,brief ,adj.
+2655,broad ,adj.
+2656,broadcast ,"v., n."
+2657,budget ,n.
+2658,bullet ,n.
+2659,bunch ,n.
+2660,burn ,n.
+2661,bush ,n.
+2662,but ,prep.
+2663,calculate ,v.
+2664,cancel ,v.
+2665,cancer ,n.
+2666,capable ,adj.
+2667,capacity ,n.
+2668,capture ,"v., n."
+2669,cast ,"n., v."
+2670,catch ,n.
+2671,chain ,v.
+2672,chair ,v.
+2673,chairman ,n.
+2674,challenge ,v.
+2675,characteristic ,"n., adj."
+2676,chart ,v.
+2677,chief ,"adj., n."
+2678,circumstance ,n.
+2679,cite ,v.
+2680,citizen ,n.
+2681,civil ,adj.
+2682,classic ,"adj., n."
+2683,close,n.
+2684,closely ,adv.
+2685,collapse ,"v., n."
+2686,combination ,n.
+2687,comfort ,"n., v."
+2688,command ,"n., v."
+2689,commission ,"n., v."
+2690,commitment ,n.
+2691,committee ,n.
+2692,commonly ,adv.
+2693,complex ,n.
+2694,complicated ,adj.
+2695,component ,n.
+2696,concentration ,n.
+2697,concept ,n.
+2698,concern ,"n., v."
+2699,concerned ,adj.
+2700,conduct ,"v., n."
+2701,confidence ,n.
+2702,conflict ,"n., v."
+2703,confusing ,adj.
+2704,congress ,n.
+2705,conscious ,adj.
+2706,conservative ,"adj., n."
+2707,consideration ,n.
+2708,consistent ,adj.
+2709,constant ,adj.
+2710,constantly ,adv.
+2711,construct ,v.
+2712,construction ,n.
+2713,contemporary ,adj.
+2714,contest ,"n., v."
+2715,contract ,"n., v."
+2716,contribute ,v.
+2717,contribution ,n.
+2718,convert ,v.
+2719,convinced ,adj.
+2720,core ,"n., adj."
+2721,corporate ,adj.
+2722,council ,n.
+2723,county ,n.
+2724,courage ,n.
+2725,crash ,"n., v."
+2726,creation ,n.
+2727,creature ,n.
+2728,credit ,v.
+2729,crew ,n.
+2730,crisis ,n.
+2731,criterion ,n.
+2732,critic ,n.
+2733,critical ,adj.
+2734,criticism ,n.
+2735,criticize ,v.
+2736,crop ,n.
+2737,crucial ,adj.
+2738,cry ,n.
+2739,cure ,"v., n."
+2740,current ,n.
+2741,curve ,"n., v."
+2742,curved ,adj.
+2743,date ,v.
+2744,debate ,"n., v."
+2745,debt ,n.
+2746,decent ,adj.
+2747,declare ,v.
+2748,decline ,"v., n."
+2749,decorate ,v.
+2750,decoration ,n.
+2751,decrease ,"v., n."
+2752,deeply ,adv.
+2753,defeat ,"v., n."
+2754,defend ,v.
+2755,defense ,n.
+2756,delay ,"v., n."
+2757,deliberate ,adj.
+2758,deliberately ,adv.
+2759,delivery ,n.
+2760,demand ,"n., v."
+2761,demonstrate ,v.
+2762,deny ,v.
+2763,depressed ,adj.
+2764,depressing ,adj.
+2765,depth ,n.
+2766,desert ,v.
+2767,deserve ,v.
+2768,desire ,"n., v."
+2769,desperate ,adj.
+2770,detail ,v.
+2771,detailed ,adj.
+2772,detect ,v.
+2773,dig ,v.
+2774,discipline ,n.
+2775,discount ,v.
+2776,dishonest ,adj.
+2777,disk ,n.
+2778,dismiss ,v.
+2779,display ,"v., n."
+2780,distribute ,v.
+2781,distribution ,n.
+2782,divide ,n.
+2783,division ,n.
+2784,document ,v.
+2785,domestic ,adj.
+2786,dominate ,v.
+2787,downward ,"adj., adv."
+2788,dozen ,"n., det."
+2789,draft ,"n., v."
+2790,drag ,v. 
+2791,dramatic ,adj.
+2792,edit ,v.
+2793,edition ,n.
+2794,efficient ,adj.
+2795,elderly ,adj.
+2796,elect ,v.
+2797,elsewhere ,adv.
+2798,emerge ,v.
+2799,emotional ,adj.
+2800,emphasis ,n.
+2801,emphasize ,v.
+2802,enable ,v.
+2803,encounter ,"v., n."
+2804,engage ,v.
+2805,enhance ,v.
+2806,ensure ,v.
+2807,enthusiasm ,n.
+2808,enthusiastic ,adj.
+2809,entire ,adj.
+2810,entirely ,adv.
+2811,equal ,n.
+2812,establish ,v.
+2813,estate ,n.
+2814,estimate ,"v., n."
+2815,ethical ,adj.
+2816,evaluate ,v.
+2817,even ,adj.
+2818,evil ,"adj., n."
+2819,examination ,n.
+2820,excuse ,"n., v."
+2821,executive ,"n., adj."
+2822,exhibit ,"v., n."
+2823,existence ,n.
+2824,exit ,
+2825,expectation ,n.
+2826,expense ,n.
+2827,exploration ,n.
+2828,expose ,v.
+2829,extend ,v.
+2830,extent ,n.
+2831,external ,adj.
+2832,extraordinary ,adj.
+2833,extreme ,n.
+2834,facility ,n.
+2835,failure ,n.
+2836,faith ,n.
+2837,fault ,n.
+2838,favor ,v.
+2839,feather ,n.
+2840,fee ,n.
+2841,feed ,n.
+2842,feedback ,n.
+2843,feel ,n.
+2844,fellow ,adj.
+2845,figure ,v.
+2846,file ,v.
+2847,finance ,"n., v."
+2848,finding ,n.
+2849,firm ,n.
+2850,fix ,n.
+2851,flame ,n.
+2852,flash ,"n., v."
+2853,flexible ,adj.
+2854,float ,v.
+2855,fold ,n.
+2856,folding ,adj.
+2857,following ,prep.
+2858,forgive ,v.
+2859,former ,adj.
+2860,fortune ,n.
+2861,forward ,adj.
+2862,found ,v.
+2863,free ,v.
+2864,freedom ,n.
+2865,frequency ,n.
+2866,fuel ,v.
+2867,fully ,adv.
+2868,function ,v.
+2869,fund ,"n., v."
+2870,fundamental ,adj.
+2871,funding ,n.
+2872,furthermore ,adv.
+2873,gain ,"v., n."
+2874,gang ,n.
+2875,generate ,v.
+2876,genre ,n.
+2877,goods ,n.
+2878,govern ,v.
+2879,governor ,n.
+2880,grab ,v.
+2881,grade ,v.
+2882,gradually ,adv.
+2883,grand ,adj.
+2884,grant ,"v., n."
+2885,guarantee ,"v., n."
+2886,handle ,"v., n."
+2887,harm ,"n., v."
+2888,harmful ,adj.
+2889,hearing ,n.
+2890,heaven ,n.
+2891,heel ,n.
+2892,hell ,n.
+2893,hesitate ,v.
+2894,high ,n.
+2895,hire ,n.
+2896,hold ,n.
+2897,hollow ,adj.
+2898,holy ,adj.
+2899,honor ,"n., v."
+2900,host ,v.
+2901,house ,v.
+2902,household ,n.
+2903,housing ,n.
+2904,humor ,n.
+2905,humorous ,adj.
+2906,hunt ,n.
+2907,hunting ,n.
+2908,hurt ,n.
+2909,ideal ,n.
+2910,illustrate ,v.
+2911,illustration ,n.
+2912,imagination ,n.
+2913,impatient ,adj.
+2914,imply ,v.
+2915,impose ,v.
+2916,impress ,v.
+2917,impressed ,adj.
+2918,inch ,n.
+2919,incident ,n.
+2920,income ,n.
+2921,increasingly ,adv.
+2922,industrial ,adj.
+2923,infection ,n.
+2924,inform ,v.
+2925,initial ,adj.
+2926,initially ,adv.
+2927,initiative ,n.
+2928,inner ,adj.
+2929,inquiry ,n.
+2930,insight ,n.
+2931,insist ,v.
+2932,inspire ,v.
+2933,install ,v.
+2934,instance ,n.
+2935,institute ,n.
+2936,institution ,n.
+2937,insurance ,n.
+2938,intended ,adj.
+2939,intense ,adj.
+2940,internal ,adj.
+2941,interpret ,v.
+2942,interrupt ,v.
+2943,investigation ,n.
+2944,investment ,n.
+2945,issue ,v.
+2946,joy ,n.
+2947,judgment ,n.
+2948,junior ,adj.
+2949,justice ,n.
+2950,justify ,v.
+2951,labor ,n.
+2952,landscape ,n.
+2953,largely ,adv.
+2954,latest ,n.
+2955,launch ,"v., n."
+2956,leadership ,n.
+2957,league ,n.
+2958,lean ,v.
+2959,leave ,n.
+2960,level ,v.
+2961,license ,n.
+2962,limited ,adj.
+2963,line ,v.
+2964,lively ,adj.
+2965,load ,"n., v."
+2966,loan ,n.
+2967,logical ,adj.
+2968,long-term ,"adj., adv."
+2969,loose ,adj.
+2970,lord ,n.
+2971,low ,n.
+2972,lower ,v.
+2973,lung ,n.
+2974,maintain ,v.
+2975,major ,n.
+2976,majority ,n.
+2977,make ,n.
+2978,map ,v.
+2979,mass ,"n., adj."
+2980,massive ,adj.
+2981,master ,"n., v."
+2982,matching ,adj.
+2983,material ,adj.
+2984,maximum ,"adj., n."
+2985,means ,n.
+2986,measurement ,n.
+2987,medium ,n.
+2988,melt ,v.
+2989,military ,"adj., n."
+2990,mineral ,n.
+2991,minimum ,"adj., n."
+2992,minister ,n.
+2993,minor ,adj.
+2994,minority ,n.
+2995,mission ,n.
+2996,mistake ,v.
+2997,mixed ,adj.
+2998,model ,v.
+2999,modify ,v.
+3000,monitor ,"n., v."
+3001,moral ,"adj., n."
+3002,motor ,"n., adj."
+3003,mount ,v.
+3004,multiple ,adj.
+3005,multiply ,v.
+3006,mysterious ,adj.
+3007,narrow ,v.
+3008,national ,n.
+3009,negative ,n.
+3010,nerve ,n.
+3011,nevertheless ,adv.
+3012,nightmare ,n.
+3013,notion ,n.
+3014,numerous ,adj.
+3015,obey ,v.
+3016,object ,v.
+3017,objective ,"n., adj."
+3018,obligation ,n.
+3019,observation ,n.
+3020,observe ,v.
+3021,obtain ,v.
+3022,occasionally ,adv.
+3023,offend ,v.
+3024,offense ,n.
+3025,offensive ,adj.
+3026,official ,n.
+3027,opening ,n.
+3028,operate ,v.
+3029,opponent ,n.
+3030,oppose ,v.
+3031,opposed ,adj.
+3032,opposition ,n.
+3033,organ ,n.
+3034,origin ,n.
+3035,otherwise ,adv.
+3036,outcome ,n.
+3037,outer ,adj.
+3038,outline ,"n., v."
+3039,overall ,"adj., adv."
+3040,owe ,v.
+3041,pace ,"n., v."
+3042,package ,v.
+3043,panel ,n.
+3044,participant ,n.
+3045,partly ,adv.
+3046,passage ,n.
+3047,patient ,adj.
+3048,permanent ,adj.
+3049,permit ,"v., n."
+3050,perspective ,n.
+3051,phase ,n.
+3052,phenomenon ,n.
+3053,philosophy ,n.
+3054,pick ,n.
+3055,picture ,v.
+3056,pile ,"n., v."
+3057,pitch ,n.
+3058,plain ,adj.
+3059,plot ,v.
+3060,plus,"adj., n., conj."
+3061,pointed ,adj.
+3062,popularity ,n.
+3063,pose ,v.
+3064,position ,v.
+3065,positive ,n.
+3066,possess ,v.
+3067,potential ,"adj., n."
+3068,power ,v.
+3069,praise ,"n., v."
+3070,pregnant ,adj.
+3071,preparation ,n.
+3072,presence ,n.
+3073,preserve ,v.
+3074,price ,v.
+3075,prime ,adj.
+3076,principal ,adj.
+3077,principle ,n.
+3078,print ,n.
+3079,priority ,n.
+3080,privacy ,n.
+3081,procedure ,n.
+3082,process ,v.
+3083,produce ,n.
+3084,professional ,n.
+3085,progress ,v.
+3086,project ,v.
+3087,proof ,n.
+3088,proposal ,n.
+3089,propose ,v.
+3090,prospect ,n.
+3091,protection ,n.
+3092,psychologist ,n.
+3093,psychology ,n.
+3094,publication ,n.
+3095,purchase ,"n., v."
+3096,pure ,adj.
+3097,pursue ,v.
+3098,range ,v.
+3099,rank ,"n., v."
+3100,rapid ,adj.
+3101,rapidly ,adv.
+3102,rate ,v.
+3103,raw ,adj.
+3104,reach ,n.
+3105,realistic ,adj.
+3106,reasonable ,adj.
+3107,recall ,v.
+3108,recover ,v.
+3109,reduction ,n.
+3110,regard ,"v., n."
+3111,regional ,adj.
+3112,register ,"v., n."
+3113,regret ,"v., n."
+3114,regulation ,n.
+3115,relatively ,adv.
+3116,relevant ,adj.
+3117,relief ,n.
+3118,rely ,v.
+3119,remark ,"n., v."
+3120,representative ,"n., adj."
+3121,reputation ,n.
+3122,requirement ,n.
+3123,rescue ,"v., n."
+3124,reserve ,"n., v."
+3125,resident ,"n., adj."
+3126,resist ,v.
+3127,resolve ,v.
+3128,resort ,n.
+3129,retain ,v.
+3130,reveal ,v.
+3131,revolution ,n.
+3132,reward ,"n., v."
+3133,rhythm ,n.
+3134,rid ,v.
+3135,rise ,n.
+3136,root ,n.
+3137,round ,n.
+3138,routine ,adj.
+3139,rub ,v.
+3140,rubber ,"n., adj."
+3141,rural ,adj.
+3142,rush ,"v., n."
+3143,sample ,v.
+3144,satellite ,n.
+3145,satisfied ,adj.
+3146,satisfy ,v.
+3147,saving ,n.
+3148,scale ,n.
+3149,schedule ,v.
+3150,scream ,"v., n."
+3151,screen ,v.
+3152,seat ,v.
+3153,sector ,n.
+3154,secure ,"v., adj."
+3155,seek ,v.
+3156,select ,v.
+3157,selection ,n.
+3158,self ,n.
+3159,senate ,n.
+3160,senator ,n.
+3161,senior ,adj.
+3162,sense ,v.
+3163,sensitive ,adj.
+3164,sentence ,v.
+3165,sequence ,n.
+3166,session ,n.
+3167,settle ,v.
+3168,severe ,adj.
+3169,shade ,n.
+3170,shadow ,n.
+3171,shall ,modal v.
+3172,shallow ,adj.
+3173,shame ,n.
+3174,shape ,v.
+3175,shelter ,"n., v."
+3176,shift ,v.
+3177,ship ,v.
+3178,shock ,"n., v."
+3179,shocked ,adj.
+3180,shooting ,n.
+3181,shot ,n.
+3182,significant ,adj.
+3183,significantly ,adv.
+3184,silence ,n.
+3185,silk ,n.
+3186,sincere ,adj.
+3187,slide ,"v., n."
+3188,slight ,adj.
+3189,slip ,v.
+3190,slope ,"n., v."
+3191,solar ,adj.
+3192,somewhat ,adv.
+3193,soul ,n.
+3194,specialist ,"n., adj."
+3195,species ,n.
+3196,speed ,v.
+3197,spiritual ,adj.
+3198,split ,"v., n."
+3199,sponsor ,"v., n."
+3200,spot ,v.
+3201,spread ,n.
+3202,stable ,adj.
+3203,stage ,v.
+3204,stand ,n.
+3205,stare ,v.
+3206,status ,n.
+3207,steady ,adj.
+3208,steel ,n.
+3209,steep ,adj.
+3210,step ,v.
+3211,sticky ,adj.
+3212,stiff ,adj.
+3213,stock ,n.
+3214,stream ,n.
+3215,stretch ,"v., n."
+3216,strict ,adj.
+3217,strike ,"v., n."
+3218,structure ,v.
+3219,struggle ,"v., n."
+3220,stuff ,v.
+3221,subject ,adj.
+3222,submit ,v.
+3223,sum ,"n., v."
+3224,surgery ,n.
+3225,surround ,v.
+3226,surrounding ,adj.
+3227,survey ,v.
+3228,suspect ,"v., n."
+3229,swear ,v.
+3230,sweep ,v.
+3231,switch ,n.
+3232,sympathy ,n.
+3233,tale ,n.
+3234,tank ,n.
+3235,target ,v.
+3236,tear,"v., n."
+3237,tear,n.
+3238,temporary ,adj.
+3239,term ,v.
+3240,therapy ,n.
+3241,threat ,n.
+3242,threaten ,v.
+3243,thus ,adv.
+3244,time ,v.
+3245,title ,v.
+3246,tone ,n.
+3247,tough ,adj.
+3248,track ,v.
+3249,transfer ,"v., n."
+3250,transform ,v.
+3251,transition ,n.
+3252,trial ,n.
+3253,trip ,v.
+3254,tropical ,adj.
+3255,trouble ,v.
+3256,truly ,adv.
+3257,trust ,"n., v."
+3258,try ,n.
+3259,tune ,n.
+3260,tunnel ,n.
+3261,ultimately ,adv.
+3262,unconscious ,adj.
+3263,unexpected ,adj.
+3264,unique ,adj.
+3265,universe ,n.
+3266,unknown ,adj.
+3267,upper ,adj.
+3268,upward ,adv.
+3269,urban ,adj.
+3270,urge ,v.
+3271,value ,v.
+3272,van ,n.
+3273,vary ,v.
+3274,vast ,adj.
+3275,venue ,n.
+3276,very ,adj.
+3277,via ,prep.
+3278,victory ,n.
+3279,violence ,n.
+3280,virtual ,adj.
+3281,vision ,n.
+3282,visual ,adj.
+3283,vital ,adj.
+3284,vitamin ,n.
+3285,volume ,n.
+3286,wage ,n.
+3287,way ,adv.
+3288,weakness ,n.
+3289,wealth ,n.
+3290,wealthy ,adj.
+3291,whereas ,conj.
+3292,wherever ,conj.
+3293,whisper ,"v., n."
+3294,whom ,pron.
+3295,widely ,adv.
+3296,wildlife ,n.
+3297,willing ,adj.
+3298,wind,v.
+3299,wire ,n.
+3300,wise ,adj.
+3301,witness ,"n., v."
+3302,worse ,n.
+3303,worst ,n.
+3304,worth ,n.
+3305,wound ,"n., v."
+3306,wrap ,v.
+3307,wrong ,n.
+3308,yet ,conj.
+3309,zone ,n.
