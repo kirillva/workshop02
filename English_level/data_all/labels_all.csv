@@ -24,18 +24,18 @@ Up,Everything,A2/A2+,Yes
 ",Rus sub,"A2/A2+, B1",Yes
 The man called Flinstone,Nope,A2/A2+,Yes
 Batman begins,Everything,A2/A2+,Yes
-Kubo and the two strings,Nope,A2/A2+,Yes
+Kubo and the two strings,Nope,A2/A2+/B1,Yes
 Soul,Everything,B1,Yes
 The break-up,Rus sub,A2/A2+,Yes
 The holiday,No subs,B1,Yes
-Sleepless in Seattle ,Rus lan,A2/A2+,Yes
+Sleepless in Seattle ,Rus lan,A2/A2+/B1,Yes
 My big fat Greek wedding,Nope,A2/A2+,Yes
 Groundhog day,Everything,B1,Yes
 The lion king,Everything,A2/A2+,Yes
 Home alone,Everything,B1,Yes
 Catch me if you can,Rus sub,"B1, B2",Yes
 Mamma Mia,"Paid, Rus lan",B1,Yes
-Harry Potter (1),Rus sub,B1,Yes
+Harry Potter and the philosophers stone,Rus sub,B1,Yes
 Matilda ,Rus lan,B1,Yes
 Her,Rus lan,"A2/A2+, B1",Yes
 Shrek,Rus sub,B1,Yes
@@ -67,8 +67,8 @@ Titanic,Everything,B2,Yes
 Dune,Everything,B2,Yes
 Venom,Everything,B2,Yes
 Before sunset,Nope,"B1, B2",Yes
-Lie to me (series),,"B1, B2",No
-The blind side ,Nope,B1,Yes
+Lie to me,,"B1, B2",No
+The blind side ,Nope,B1/B2,Yes
 Before sunrise,Nope,"B1, B2",Yes
 Clueless,Nope,B1,Yes
 The usual suspects,Paid,B2,Yes
@@ -92,19 +92,15 @@ The Greatest Showman 🎙️,,A2/A2+,Yes
 It’s a wonderful life,,A2/A2+,Yes
 Eurovision Song Contest: The Story of Fire Saga,,A2/A2+,Yes
 Mary Poppins Returns,,B1,Yes
-The Walking Dead  (series)🧟,,A2/A2+,No
-The fault in our stars 😭,,"A2/A2+, B1",Yes
+The Walking Dead,,A2/A2+,No
+The fault in our stars,,"A2/A2+, B1",Yes
 10 Cloverfield Lane,,B1,Yes
 Lion,,"B1, B2",Yes
 House of Gucci,,B2,Yes
-Kubo and the Two Strings,,B1,
 Charlie and the Chocolate Factory,,B1,
 Cinderella,,B1,
 Ferdinand,,B1,
-Inside Out,,B1,
 Milada,,B1,
-Sleepless in Seattle ,,B1,
-The Terminal,,B1,
 While You Were Sleeping,,B1,
 The Fundamentals of Caring,,B1,
 Cars,,B2,
@@ -113,7 +109,6 @@ Enola Holmes,,B2,
 Entrapment,,B2,
 Made of Honor,,B2,
 Ratatouille,,B2,
-The Blind Side,,B2,
 The Devil Wears Prada,,B2,
 The Intern,,B2,
 The Secret Life of Pets,,B2,
